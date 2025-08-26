@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+
+# Databases
+*.db
+*.sqlite3
+
+# Flask instance folder
+instance/
+
+# OS / Editor junk files
+.DS_Store
