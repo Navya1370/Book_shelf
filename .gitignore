@@ -1,19 +1,23 @@
-# Python cache
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Virtual environments
-env/
-venv/
-
-# Databases
 *.db
-*.sqlite3
 
-# Flask instance folder
-instance/
+# Virtual environment
+venv/
+.venv/
 
-# OS / Editor junk files
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+
+# Mac / Windows
 .DS_Store
+Thumbs.db
